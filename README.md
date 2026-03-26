@@ -21,10 +21,13 @@
 1. **Clone the Repository:**
     https://github.com/sufyaanAlbertus/GADS7331_GJ2026_ST10436103_Pirate-Survival-Prototype.git 
 3. **Open in Unity:**
+   * Go to `/Project` file
+   * Find link to google drive link
+   * Download Zip and extract 
    * Open Unity Hub.
    * Select 'Add' and navigate to the project folder " ".
    * Ensure you are using **Unity 2022.3** or newer.
-4. **Play the Build:**
+5. **Play the Build:**
    * Navigate to the `/Builds` folder in the repository.
    * **Just run the executable (.exe) build to play the game immediately.**
 
