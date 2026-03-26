@@ -1,0 +1,8 @@
+# Project Dependencies & Tools
+Engine: Unity
+Version Control: Git / GitHub
+IDE: VS Community
+AI Tools: ChatGpt/Cursor/Gemini 
+Assets: Pirate Kit, HUD, Collectibles
+Scripting: C# (Unity) 
+Documentation: Markdown
