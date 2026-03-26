@@ -28,7 +28,6 @@
 
 ---
 ## Reflection (Draft)
-
 Throughout this project, AI proved to be a highly effective tool for accelerating development and solving complex problems. It was particularly useful in debugging Unity errors, structuring scripts, and suggesting improvements to gameplay systems such as enemy AI, wave spawning, and collectibles. AI helped streamline the process by providing immediate feedback and alternative approaches, which reduced development time and improved overall code quality.
 However, there were limitations. AI sometimes provided generic solutions that required adaptation to fit the specific project context. In some cases, it did not fully account for Unity-specific behaviours such as prefab limitations or scene-based references, which led to additional debugging. This highlighted the importance of understanding the underlying concepts rather than relying entirely on AI-generated solutions.
 From an ethical perspective, it is important to ensure that AI is used as a support tool rather than a replacement for learning. Proper attribution and academic honesty must be maintained, especially in educational settings. The development process involved iterative refinement, testing, and debugging, where AI acted as a guide rather than the sole creator.
